@@ -1,0 +1,2 @@
+-- TODO: cargar datos representativos para demostrar los casos de uso.
+-- Mantener consistencia con las claves foráneas definidas en 01_schema.sql.

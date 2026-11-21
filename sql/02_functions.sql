@@ -1,0 +1,1 @@
+-- TODO: implementar al menos 2 funciones de PostgreSQL para reglas o consultas del dominio.

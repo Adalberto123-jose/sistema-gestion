@@ -1,0 +1,3 @@
+-- TODO: crear aquí el esquema relacional del tema elegido.
+-- Requisito del proyecto: mínimo 6 tablas relacionadas y normalizadas hasta 3FN.
+-- Agregar claves primarias, foráneas, restricciones e índices necesarios.

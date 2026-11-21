@@ -1,0 +1,2 @@
+-- TODO: implementar al menos 2 procedimientos almacenados.
+-- Usar transacciones cuando el caso de uso requiera varias operaciones atómicas.

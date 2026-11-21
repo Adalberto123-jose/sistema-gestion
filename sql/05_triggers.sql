@@ -1,0 +1,1 @@
+-- TODO: crear al menos 2 triggers con propósito documentado (auditoría, validación o actualización automática).
